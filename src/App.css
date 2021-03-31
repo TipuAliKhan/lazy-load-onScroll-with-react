@@ -1,0 +1,16 @@
+.app{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.loader{
+  width: 100%;
+  height: 20px;
+  text-align: center;
+  margin: 0 40px;
+  color: blue;
+  font-size: 22px;
+  font-weight: bolder;
+  font-family: inherit;
+}
